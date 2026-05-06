@@ -1,0 +1,54 @@
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AI Research Agent.exe
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AI Research Agent.deps.json
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AI Research Agent.runtimeconfig.json
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AI Research Agent.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AI Research Agent.pdb
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.AssemblyInfo.cs
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.sourcelink.json
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Resea.82B35D84.Up2Date
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\refint\AI Research Agent.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.pdb
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\AI Research Agent.genruntimeconfig.cache
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\obj\Debug\net10.0\ref\AI Research Agent.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AutoGen.Core.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\AutoGen.Mistral.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\Json.More.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\JsonPointer.Net.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\JsonSchema.Net.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\JsonSchema.Net.Generation.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\Justin\source\repos\AI Research Agent\AI Research Agent\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AI Research Agent.exe
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AI Research Agent.deps.json
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AI Research Agent.runtimeconfig.json
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AI Research Agent.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AI Research Agent.pdb
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AutoGen.Core.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\AutoGen.Mistral.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\Json.More.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\JsonPointer.Net.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\JsonSchema.Net.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\JsonSchema.Net.Generation.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.AssemblyInfo.cs
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.sourcelink.json
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Resea.82B35D84.Up2Date
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\refint\AI Research Agent.dll
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.pdb
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\AI Research Agent.genruntimeconfig.cache
+C:\Users\Justin\Desktop\Compulsory-Assignment-2-main\AI Research Agent\obj\Debug\net10.0\ref\AI Research Agent.dll

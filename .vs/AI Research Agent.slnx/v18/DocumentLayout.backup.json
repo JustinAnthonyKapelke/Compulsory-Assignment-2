@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\constraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\constraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\mistralclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\mistralclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\openalextool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\openalextool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\researchagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\researchagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\python\\agent.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\python\\agent.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\python\\app.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\python\\app.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\python\\config.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\python\\config.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\autogentool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\autogentool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\bestpaperresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\bestpaperresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Downloads\\AutoGenTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Justin\\Downloads\\OpenAlexTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|c:\\users\\justin\\desktop\\compulsory-assignment-2-main\\ai research agent\\ai research agent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18386C75-55F3-04DF-9808-9F82FD0C358F}|AI Research Agent\\AI Research Agent.csproj|solutionrelative:ai research agent\\ai research agent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoGenTool.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Downloads\\AutoGenTool.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\AutoGenTool.cs",
+              "ToolTip": "C:\\Users\\Justin\\Downloads\\AutoGenTool.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\AutoGenTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:56:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpenAlexTool.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Downloads\\OpenAlexTool.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\OpenAlexTool.cs",
+              "ToolTip": "C:\\Users\\Justin\\Downloads\\OpenAlexTool.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\OpenAlexTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:48:26.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoGenTool.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\AutoGenTool.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\AutoGenTool.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\AutoGenTool.cs",
+              "RelativeToolTip": "AI Research Agent\\AutoGenTool.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "AI Research Agent",
+              "WhenOpened": "2026-04-28T11:22:27.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MIstralClient.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\MIstralClient.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\MIstralClient.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\MIstralClient.cs",
+              "RelativeToolTip": "AI Research Agent\\MIstralClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:35:26.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "agent.py",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\agent.py",
+              "RelativeDocumentMoniker": "AI Research Agent\\python\\agent.py",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\agent.py",
+              "RelativeToolTip": "AI Research Agent\\python\\agent.py",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwIQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-28T11:23:25.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResearchAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\ResearchAgent.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\ResearchAgent.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\ResearchAgent.cs",
+              "RelativeToolTip": "AI Research Agent\\ResearchAgent.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:26:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Paper.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\Paper.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Paper.cs",
+              "RelativeToolTip": "AI Research Agent\\Paper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:24:24.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constraints.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Constraints.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\Constraints.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Constraints.cs",
+              "RelativeToolTip": "AI Research Agent\\Constraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:33:04.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\app.py",
+              "RelativeDocumentMoniker": "AI Research Agent\\python\\app.py",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\app.py",
+              "RelativeToolTip": "AI Research Agent\\python\\app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-28T11:23:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\config.py",
+              "RelativeDocumentMoniker": "AI Research Agent\\python\\config.py",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\python\\config.py",
+              "RelativeToolTip": "AI Research Agent\\python\\config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-28T11:22:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BestPaperResult.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\BestPaperResult.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\BestPaperResult.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\BestPaperResult.cs",
+              "RelativeToolTip": "AI Research Agent\\BestPaperResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:50:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenAlexTool.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\OpenAlexTool.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\OpenAlexTool.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\OpenAlexTool.cs",
+              "RelativeToolTip": "AI Research Agent\\OpenAlexTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:23:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Program.cs",
+              "RelativeDocumentMoniker": "AI Research Agent\\Program.cs",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\Program.cs",
+              "RelativeToolTip": "AI Research Agent\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:15:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP0UAAAAAAAAAAAuwBIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-05T09:21:47.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AI Research Agent.csproj",
+              "DocumentMoniker": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\AI Research Agent.csproj",
+              "RelativeDocumentMoniker": "AI Research Agent\\AI Research Agent.csproj",
+              "ToolTip": "C:\\Users\\Justin\\Desktop\\Compulsory-Assignment-2-main\\AI Research Agent\\AI Research Agent.csproj",
+              "RelativeToolTip": "AI Research Agent\\AI Research Agent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T10:25:09.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
